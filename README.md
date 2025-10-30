@@ -53,7 +53,7 @@ We combined what we learned from **programming** and **statistics** to clean, an
 6. **Regression Analysis**
 
    * We used Linear Regression to predict daily returns and Logistic Regression to predict high-return days.
-   * Results showed that predicting returns isn’t easy — returns depend on many factors beyond just volume and previous return.
+   * Results showed that predicting returns isn’t easy returns depend on many factors beyond just volume and previous return.
 
 7. **Random Forest Model**
 
@@ -66,7 +66,7 @@ We combined what we learned from **programming** and **statistics** to clean, an
 
 * Apple’s stock returns **are not normally distributed**.
 * **No major difference** was found between bullish and bearish years.
-* **Machine learning models** like Regression and Random Forest had low prediction power — meaning stock returns are influenced by many unpredictable market factors.
+* **Machine learning models** like Regression and Random Forest had low prediction power meaning stock returns are influenced by many unpredictable market factors.
 
 
 ##  Tools We Used
