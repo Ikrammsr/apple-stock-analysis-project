@@ -4,6 +4,8 @@
 
  **By:** Ikram Mansar & Phuong Le Linh 
  
+ **School:** Rennes School of Business
+ 
  **Course:** Programming & Statistics Project
  
  **Topic:** Exploring Apple Inc. Stock Data
