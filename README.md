@@ -68,7 +68,7 @@ We combined what we learned from **programming** and **statistics** to clean, an
 * **Machine learning models** like Regression and Random Forest had low prediction power — meaning stock returns are influenced by many unpredictable market factors.
 
 
-## ⚙️ Tools We Used
+##  Tools We Used
 
 * **Python Libraries:** pandas, numpy, matplotlib, seaborn, scipy, sklearn, statsmodels
 * **Platform:** Google Colab
