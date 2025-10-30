@@ -2,7 +2,7 @@
 
 #  Apple Stock Analysis Project
 
- **By:** Ikram Mansar & Phuong Le Linh 
+ **By:** Ikram Mansar & Phuong Linh Le 
  
  **School:** Rennes School of Business
  
