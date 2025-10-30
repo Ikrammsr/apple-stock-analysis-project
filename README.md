@@ -3,9 +3,10 @@
 #  Apple Stock Analysis Project
 
  **By:** Ikram Mansar & Phuong Le Linh 
+ 
  **Course:** Programming & Statistics Project
+ 
  **Topic:** Exploring Apple Inc. Stock Data
-
 
 
 ##  About Our Project
